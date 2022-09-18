@@ -4,9 +4,6 @@ Assignment 3 consists of two parts.
 The goal of Part 1 of Assignment is to stylize the basic Vecta Corp.
 The goal of Part 2 of Assignment is to build out a slightly more refined version of the Vecta Corp.
 
-
-Each page contains a nav bar module and a common header and each was connected to the others using an anchor tag.
-
 ## SCREENSHOTS
 
 <h3>PART 1</h3>
