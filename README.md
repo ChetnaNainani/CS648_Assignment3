@@ -8,7 +8,7 @@ The goal of Part 2 of Assignment is to build out a slightly more refined version
 
 <h3>PART 1</h3>
 <p>HOME PAGE</p>
-<img src="https://github.com/ChetnaNainani/CS648_Assignment3/blob/main/Part_1/screenshots/Part_1.png" alt="Home" width="800" height="800">
+<img src="https://github.com/ChetnaNainani/CS648_Assignment3/blob/main/Part_1/screenshots/Part_1.png" alt="Home" width="1000" height="600">
 
 <h3>PART 2</h3>
 <p>HOME PAGE</p>
