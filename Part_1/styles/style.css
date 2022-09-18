@@ -20,12 +20,12 @@ p:first-of-type::first-letter {
 
 #testimonial1 {
     font-style: italic;
-    margin: 25px;
+    margin: 50px;
 }
 
 #testimonial2 {
     font-style: italic;
-    margin: 25px;
+    margin: 50px;
 }
 
 a[href^="http"] {
